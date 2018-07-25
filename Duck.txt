@@ -1,6 +1,6 @@
 Line1 first modify file, line 1
-Line2 second
-Line3
+Line2 second modify file, line 1
+Line3 modify file, line 2
 Line4
 Line5
 Line6
